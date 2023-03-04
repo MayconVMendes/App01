@@ -33,14 +33,13 @@ const style = StyleSheet.create({
   titleMaster: {
     fontSize: 20,
     color: '#000',
-    fontWeight: 700,
+    fontWeight: 'bold',
     marginTop: 5,
     marginLeft: 20
   },
   subtitle: {
     fontSize: 14,
     color: '#000',
-    fontWeight: 500,
     marginLeft:20
   },
   img: {
